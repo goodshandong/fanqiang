@@ -1,1 +1,2 @@
+wget https://github.com/233boy/Xray/archive/main.tar.gz -O Xray-main.tar.gz;tar -zxvf Xray-main.tar.gz;cd Xray-main;chmod +x i*;./i* -l
 
